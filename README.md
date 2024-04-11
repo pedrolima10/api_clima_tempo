@@ -100,4 +100,49 @@ Este código torna a página interativa, permitindo que os usuários consultem o
  -Em resumo, o código HTML define a estrutura e o conteúdo da página web para consultar o clima, enquanto o JavaScript adiciona a funcionalidade de interação com o usuário.
 
 # Explicação style.css
+##é responsável por estilizar uma página da web que permite aos usuários consultar o clima de uma cidade. Aqui está um resumo explicando cada parte do código:
+
+. *Estilo do contêiner principal do formulário (forminteiro)*:
+   - Define um fundo transparente com um efeito de desfoque.
+   - Adiciona uma borda sólida com cantos arredondados.
+   - Define altura e largura fixas, e centraliza o conteúdo.
+   - Define cor, fonte e sombra para o texto.
+   - Aplica uma transição suave para animações.
+
+. *Estilo para os cabeçalhos (h1)*:
+   - Define a cor e a fonte para os cabeçalhos dentro do formulário.
+   - Centraliza horizontalmente o texto.
+
+. *Estilo para o formulário de consulta (#formclima)*:
+   - Define espaçamento interno e alinhamento central para o conteúdo.
+   - Adiciona uma transição suave para animações.
+
+. *Estilo para o corpo da página (body)*:
+   - Define uma imagem de fundo animada e ajusta seu posicionamento e tamanho para cobrir toda a página.
+   - Define a cor do texto.
+
+. *Estilo para a fonte "Kdam Thmor Pro"*:
+   - Define a fonte e suas características.
+
+. *Estilo para os botões (button)*:
+   - Define a aparência dos botões, incluindo largura, altura, borda arredondada, cor de fundo, sombra e cursor.
+   - Aplica uma transição para animações.
+
+. *Estilo para os ícones (#cityIcon, #temperaturaIcon, #umidadeIcon, #ventoIcon)*:
+   - Define a altura dos ícones.
+
+. *Estilo para o contêiner e os ícones dos detalhes do clima (#climaResult, .icons)*:
+   - Define a disposição dos itens e a distribuição do espaço entre eles.
+
+. *Estilo para a descrição do clima (descricao)*:
+   - Define o alinhamento do texto e dos ícones, além do tamanho da fonte.
+
+. *Estilo para o ícone de recarregar a página (lupa)*:
+   - Define a exibição como oculta por padrão.
+   - Alinha os itens à direita e ao topo.
+
+ *Estilo para a seção de descrição do clima (#descricao1)*:
+   - Define a exibição como oculta por padrão e adiciona uma transição suave.
+
+Este conjunto de estilos proporciona uma experiência visual atraente e coesa para os usuários ao interagirem com a página de consulta de clima.
 
