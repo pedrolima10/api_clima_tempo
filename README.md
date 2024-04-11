@@ -86,3 +86,17 @@ Se a requisição for bem-sucedida, exibe as informações climáticas na tela.
 Se a requisição falhar, exibe uma mensagem de erro.
 
 Imagens e ícones: As imagens de fundo da página são GIFs animados que representa
+
+# Explicação do index.html
+O código HTML consiste em uma estrutura básica de uma página web para consultar o clima
+
+- Um formulário para inserir o nome da cidade que será consultada.
+- Um botão para enviar o formulário.
+- Um ícone de lupa que permite recarregar a página.
+- Uma seção para exibir os resultados da consulta do clima, que inclui:
+  - Uma div para exibir a descrição do clima.
+  - Uma div para exibir os detalhes do clima, como temperatura, umidade e velocidade do vento.
+- Referências a recursos externos, como uma folha de estilo personalizada e fontes do Google Fonts.
+- Um arquivo JavaScript (`script.js`) que é responsável por adicionar interatividade à página, como enviar a consulta do clima e exibir os resultados.
+
+Em resumo, o código HTML define a estrutura e o conteúdo da página web para consultar o clima, enquanto o JavaScript adiciona a funcionalidade de interação com o usuário.
